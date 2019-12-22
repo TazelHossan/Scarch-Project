@@ -1,2 +1,2 @@
 # Scarch-Project
-A simple gaming project on "Scarch Programming" in 2nd Semester
+A simple gaming project on "Scratch Programming" in 2nd Semester
